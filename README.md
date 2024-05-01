@@ -5,7 +5,6 @@ This project involves the development of a URL shortening service. Users will be
 ### Core Features:
 - 🌐 **URL Shortening**: The primary function of taking a long URL and generating a significantly shorter, unique code.
 - 🧭 **Redirection**: Ensure the shortened URL, when accessed, seamlessly redirects users to the intended target website.
-- 🧑🏽‍💻 **User Interface**: A simple and intuitive web interface for users to paste their long URLs and retrieve the shortened versions.
 
 ### Additional Features:
 - ✍🏼 **Custom URLs**: Allow users to personalize the shortened URL with a custom word or phrase.
@@ -14,7 +13,6 @@ This project involves the development of a URL shortening service. Users will be
 - 💻 **API**: Develop an API to enable integration with other applications or services.
 
 ### Technologies:
-- **Frontend**: TBD
 - **Backend**: TBD
 - **Database**: TBD
 - **Deployment**: TBD
