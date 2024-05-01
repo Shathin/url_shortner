@@ -19,13 +19,7 @@ This project involves the development of a URL shortening service. Users will be
 
 ----
 
-## HLD
-
-> TODO
-
-----
-
-> This project was referenced from the article [System Design Interview Question: Design URL Shortener](https://levelup.gitconnected.com/system-design-interview-question-design-url-shortener-c3278a99fc35) by Hayk Simonyan
+> Head on over to the [Project Wiki](https://github.com/Shathin/url_shortner/wiki) to read more about this project! 
 
 ---
 
